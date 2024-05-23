@@ -16,9 +16,9 @@
             "type": "string"
         },
         {
-            "name":"email",
+            "name": "email",
             "type": "string",
-            "default": null
+            "default": "noEmail@test.com"
         },
         {
             "name":"dob",

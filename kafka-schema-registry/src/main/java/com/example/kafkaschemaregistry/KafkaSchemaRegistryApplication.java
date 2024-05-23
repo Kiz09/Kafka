@@ -8,6 +8,7 @@ public class KafkaSchemaRegistryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KafkaSchemaRegistryApplication.class, args);
+
 	}
 
 }

@@ -1,0 +1,3 @@
+- http://localhost:9021/clusters
+- http://localhost:8081/subjects
+- http://localhost:8081/subjects/example-avro-value/versions/latest
